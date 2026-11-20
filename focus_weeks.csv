@@ -1,0 +1,93 @@
+week_no,sku_id,sku_name,category,units_sold
+77,1,Kaju Katli 250 g,Sweets & Mithai,1035
+78,1,Kaju Katli 250 g,Sweets & Mithai,890
+79,1,Kaju Katli 250 g,Sweets & Mithai,859
+80,1,Kaju Katli 250 g,Sweets & Mithai,1095
+81,1,Kaju Katli 250 g,Sweets & Mithai,983
+82,1,Kaju Katli 250 g,Sweets & Mithai,1134
+83,1,Kaju Katli 250 g,Sweets & Mithai,925
+84,1,Kaju Katli 250 g,Sweets & Mithai,1116
+85,1,Kaju Katli 250 g,Sweets & Mithai,1054
+86,1,Kaju Katli 250 g,Sweets & Mithai,1015
+87,1,Kaju Katli 250 g,Sweets & Mithai,997
+88,1,Kaju Katli 250 g,Sweets & Mithai,964
+77,6,Cashew Nuts 500 g,Dry Fruits & Gifting,675
+78,6,Cashew Nuts 500 g,Dry Fruits & Gifting,729
+79,6,Cashew Nuts 500 g,Dry Fruits & Gifting,600
+80,6,Cashew Nuts 500 g,Dry Fruits & Gifting,648
+81,6,Cashew Nuts 500 g,Dry Fruits & Gifting,675
+82,6,Cashew Nuts 500 g,Dry Fruits & Gifting,622
+83,6,Cashew Nuts 500 g,Dry Fruits & Gifting,651
+84,6,Cashew Nuts 500 g,Dry Fruits & Gifting,683
+85,6,Cashew Nuts 500 g,Dry Fruits & Gifting,577
+86,6,Cashew Nuts 500 g,Dry Fruits & Gifting,657
+87,6,Cashew Nuts 500 g,Dry Fruits & Gifting,733
+88,6,Cashew Nuts 500 g,Dry Fruits & Gifting,763
+77,10,Potato Chips Family Pack,Snacks & Beverages,2379
+78,10,Potato Chips Family Pack,Snacks & Beverages,1876
+79,10,Potato Chips Family Pack,Snacks & Beverages,2594
+80,10,Potato Chips Family Pack,Snacks & Beverages,2663
+81,10,Potato Chips Family Pack,Snacks & Beverages,2578
+82,10,Potato Chips Family Pack,Snacks & Beverages,2346
+83,10,Potato Chips Family Pack,Snacks & Beverages,2640
+84,10,Potato Chips Family Pack,Snacks & Beverages,2337
+85,10,Potato Chips Family Pack,Snacks & Beverages,2370
+86,10,Potato Chips Family Pack,Snacks & Beverages,2284
+87,10,Potato Chips Family Pack,Snacks & Beverages,2146
+88,10,Potato Chips Family Pack,Snacks & Beverages,2412
+78,11,Cola 2 L,Snacks & Beverages,2086
+79,11,Cola 2 L,Snacks & Beverages,2069
+80,11,Cola 2 L,Snacks & Beverages,1940
+81,11,Cola 2 L,Snacks & Beverages,2069
+82,11,Cola 2 L,Snacks & Beverages,1870
+83,11,Cola 2 L,Snacks & Beverages,2096
+84,11,Cola 2 L,Snacks & Beverages,1946
+85,11,Cola 2 L,Snacks & Beverages,2029
+86,11,Cola 2 L,Snacks & Beverages,1730
+87,11,Cola 2 L,Snacks & Beverages,1987
+88,11,Cola 2 L,Snacks & Beverages,2026
+77,13,Diya Set (12 pcs),Pooja & Decor,367
+78,13,Diya Set (12 pcs),Pooja & Decor,435
+80,13,Diya Set (12 pcs),Pooja & Decor,417
+81,13,Diya Set (12 pcs),Pooja & Decor,431
+82,13,Diya Set (12 pcs),Pooja & Decor,449
+83,13,Diya Set (12 pcs),Pooja & Decor,359
+85,13,Diya Set (12 pcs),Pooja & Decor,439
+86,13,Diya Set (12 pcs),Pooja & Decor,399
+87,13,Diya Set (12 pcs),Pooja & Decor,415
+88,13,Diya Set (12 pcs),Pooja & Decor,431
+77,17,Incense Sticks (6 packs),Pooja & Decor,1105
+78,17,Incense Sticks (6 packs),Pooja & Decor,975
+79,17,Incense Sticks (6 packs),Pooja & Decor,1175
+80,17,Incense Sticks (6 packs),Pooja & Decor,916
+81,17,Incense Sticks (6 packs),Pooja & Decor,1020
+83,17,Incense Sticks (6 packs),Pooja & Decor,1044
+84,17,Incense Sticks (6 packs),Pooja & Decor,1047
+85,17,Incense Sticks (6 packs),Pooja & Decor,1041
+86,17,Incense Sticks (6 packs),Pooja & Decor,1082
+87,17,Incense Sticks (6 packs),Pooja & Decor,1085
+88,17,Incense Sticks (6 packs),Pooja & Decor,1047
+77,19,Ghee 1 L,Sweets & Mithai,1314
+78,19,Ghee 1 L,Sweets & Mithai,1317
+79,19,Ghee 1 L,Sweets & Mithai,1429
+80,19,Ghee 1 L,Sweets & Mithai,1273
+81,19,Ghee 1 L,Sweets & Mithai,1551
+82,19,Ghee 1 L,Sweets & Mithai,1408
+83,19,Ghee 1 L,Sweets & Mithai,1245
+84,19,Ghee 1 L,Sweets & Mithai,1300
+85,19,Ghee 1 L,Sweets & Mithai,1630
+86,19,Ghee 1 L,Sweets & Mithai,1409
+87,19,Ghee 1 L,Sweets & Mithai,1315
+88,19,Ghee 1 L,Sweets & Mithai,1233
+77,20,Dates 500 g,Dry Fruits & Gifting,830
+78,20,Dates 500 g,Dry Fruits & Gifting,782
+79,20,Dates 500 g,Dry Fruits & Gifting,842
+80,20,Dates 500 g,Dry Fruits & Gifting,924
+81,20,Dates 500 g,Dry Fruits & Gifting,822
+82,20,Dates 500 g,Dry Fruits & Gifting,821
+83,20,Dates 500 g,Dry Fruits & Gifting,830
+84,20,Dates 500 g,Dry Fruits & Gifting,818
+85,20,Dates 500 g,Dry Fruits & Gifting,708
+86,20,Dates 500 g,Dry Fruits & Gifting,722
+87,20,Dates 500 g,Dry Fruits & Gifting,849
+88,20,Dates 500 g,Dry Fruits & Gifting,891

@@ -1,0 +1,21 @@
+sku_id,sku_name,category,clean_weeks,baseline_units,category_uplift,planned_weekly_units,committed_weekly_units
+1,Kaju Katli 250 g,Sweets & Mithai,12,1005.58,2.4028,2416.0,2300
+2,Soan Papdi 500 g,Sweets & Mithai,12,813.58,2.4028,1955.0,1900
+3,Gulab Jamun Tin 1 kg,Sweets & Mithai,12,605.42,2.4028,1455.0,1400
+4,Motichoor Ladoo 500 g,Sweets & Mithai,12,488.83,2.4028,1175.0,1100
+5,Almonds 500 g,Dry Fruits & Gifting,10,719.1,2.0771,1494.0,1450
+6,Cashew Nuts 500 g,Dry Fruits & Gifting,12,667.75,2.0771,1387.0,1500
+7,Assorted Dry Fruit Box 1 kg,Dry Fruits & Gifting,10,357.8,2.0771,743.0,700
+8,Pistachio 250 g,Dry Fruits & Gifting,12,273.0,2.0771,567.0,540
+9,Namkeen Mix 400 g,Snacks & Beverages,11,1812.18,1.427,2586.0,2450
+10,Potato Chips Family Pack,Snacks & Beverages,12,2385.42,1.427,3404.0,3700
+11,Cola 2 L,Snacks & Beverages,11,1986.18,1.427,2834.0,2900
+12,Roasted Makhana 100 g,Snacks & Beverages,12,905.58,1.427,1292.0,1200
+13,Diya Set (12 pcs),Pooja & Decor,10,414.2,3.0651,1270.0,1330
+14,Rangoli Colour Pack,Pooja & Decor,12,254.25,3.0651,779.0,700
+15,Pooja Thali Set,Pooja & Decor,11,191.55,3.0651,587.0,500
+16,LED Fairy Lights 10 m,Pooja & Decor,11,333.18,3.0651,1021.0,900
+17,Incense Sticks (6 packs),Pooja & Decor,11,1048.82,3.0651,3215.0,3200
+18,Toran Door Hanging,Pooja & Decor,9,157.78,3.0651,484.0,400
+19,Ghee 1 L,Sweets & Mithai,12,1368.67,2.4028,3289.0,3100
+20,Dates 500 g,Dry Fruits & Gifting,12,819.92,2.0771,1703.0,1900
